@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ApptEncoder	AppEncoder.class.php	/^abstract class ApptEncoder$/;"	c
+BloggsCommsManager	FactoryMode.class.php	/^class BloggsCommsManager extends CommsManager$/;"	c
+CommsManage	FactoryMode.class.php	/^abstract class CommsManage$/;"	c
+encoder	AppEncoder.class.php	/^	\/*{{{abstract function encoder()*\/$/;"	f
+encoder	AppEncoder.class.php	/^	abstract function encoder();$/;"	f
+getApptEncode	FactoryMode.class.php	/^	\/*{{{abstract function getApptEncode()*\/$/;"	f
+getApptEncode	FactoryMode.class.php	/^	\/*{{{public function getApptEncode()*\/$/;"	f
+getApptEncode	FactoryMode.class.php	/^	abstract function getApptEncode();$/;"	f
+getApptEncode	FactoryMode.class.php	/^	public function getApptEncode()$/;"	f
+getFooterText	FactoryMode.class.php	/^	\/*{{{abstract function getFooterText()*\/$/;"	f
+getFooterText	FactoryMode.class.php	/^	\/*{{{public function getFooterText()*\/$/;"	f
+getFooterText	FactoryMode.class.php	/^	abstract function getFooterText();$/;"	f
+getFooterText	FactoryMode.class.php	/^	public function getFooterText()$/;"	f
+getHeaderText	FactoryMode.class.php	/^	\/*{{{abstract function getHeaderText()*\/$/;"	f
+getHeaderText	FactoryMode.class.php	/^	\/*{{{public function getHeaderText()*\/$/;"	f
+getHeaderText	FactoryMode.class.php	/^	abstract function getHeaderText();$/;"	f
+getHeaderText	FactoryMode.class.php	/^	public function getHeaderText()$/;"	f

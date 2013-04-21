@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Perference	Preferences.class.php	/^class Perference $/;"	c
+__construct	Preferences.class.php	/^	\/*{{{private function __construct()*\/$/;"	f
+__construct	Preferences.class.php	/^	private function __construct() $/;"	f
+getInstance	Preferences.class.php	/^	\/*{{{public function getInstance()*\/$/;"	f
+getInstance	Preferences.class.php	/^	public function getInstance()$/;"	f
+getProperty	Preferences.class.php	/^	\/*{{{public function getProperty($key) *\/$/;"	f
+getProperty	Preferences.class.php	/^	public function getProperty($key) $/;"	f
+instance	Preferences.class.php	/^	private static $instance;$/;"	v
+instance	Preferences.class.php	/^$instance = Perference::getInstance();$/;"	v
+instance2	Preferences.class.php	/^$instance2 = Perference::getInstance();$/;"	v
+option	Preferences.class.php	/^	private $option = array();$/;"	v
+setProperty	Preferences.class.php	/^	\/*{{{public function setProperty()*\/$/;"	f
+setProperty	Preferences.class.php	/^	public function setProperty($key, $val)$/;"	f
