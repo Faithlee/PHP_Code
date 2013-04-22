@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ApptEncoder	CommsManager.class.php	/^	abstract function ApptEncoder();$/;"	f
+BloggsCommsManager	BloggsCommsManager.class.php	/^class BloggsCommsManager extends CommsManager$/;"	c
+CommsManager	CommsManager.class.php	/^abstract class CommsManager$/;"	c
+ConstactEncoder	CommsManager.class.php	/^	abstract function ConstactEncoder();$/;"	f
+TdEncoder	CommsManager.class.php	/^	abstract function TdEncoder();$/;"	f
+footerEncoder	CommsManager.class.php	/^	abstract function footerEncoder();$/;"	f
+getApptEncoder	BloggsCommsManager.class.php	/^	\/*{{public function getApptEncoder()*\/$/;"	f
+getApptEncoder	BloggsCommsManager.class.php	/^	public function getApptEncoder()$/;"	f
+getContactEncoder	BloggsCommsManager.class.php	/^	public function getContactEncoder()$/;"	f
+getFooterText	BloggsCommsManager.class.php	/^	public function getFooterText()$/;"	f
+getHeaderText	BloggsCommsManager.class.php	/^	\/*{{{public function getHeaderText()*\/$/;"	f
+getHeaderText	BloggsCommsManager.class.php	/^	public function getHeaderText()$/;"	f
+getHeaderText	CommsManager.class.php	/^	abstract function getHeaderText();$/;"	f
+getTdEncoder	BloggsCommsManager.class.php	/^	public function getTdEncoder()$/;"	f
