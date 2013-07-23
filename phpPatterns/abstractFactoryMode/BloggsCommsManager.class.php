@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Class BloggsCommsManager
+ * 处理文档
+ */
 class BloggsCommsManager extends CommsManager
 {
 	/*{{{function*/
