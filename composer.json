@@ -1,8 +1,24 @@
 {
     "name": "faithlee/php-pattern",
+    "type": "library",
     "description": "basic design pattern",
+    "keywords": ["php design"],
+    "homepage": "https://github.com/Faithlee/PHP_Code",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Faithlee",
+            "email": "lijiabin098@126.com",
+            "homepage": "http://faithlee.github.io",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "php": "^5.3.3"
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Pattern": "src"
+        }
     }
 }
