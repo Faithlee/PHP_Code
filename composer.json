@@ -1,5 +1,5 @@
 {
-    "name": "pattern/php-pattern",
+    "name": "faithlee/php-pattern",
     "description": "basic design pattern",
     "license": "MIT",
     "require": {
